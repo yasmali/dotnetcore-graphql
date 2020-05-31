@@ -1,0 +1,15 @@
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.Core.deps.json
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.Core.runtimeconfig.json
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.Core.runtimeconfig.dev.json
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.Core.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.Core.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\obj\Debug\netcoreapp2.2\GraphQlMaster.Core.csprojAssemblyReference.cache
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\obj\Debug\netcoreapp2.2\GraphQlMaster.Core.AssemblyInfoInputs.cache
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\obj\Debug\netcoreapp2.2\GraphQlMaster.Core.AssemblyInfo.cs
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\obj\Debug\netcoreapp2.2\GraphQlMaster.Core.csproj.CopyComplete
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\obj\Debug\netcoreapp2.2\GraphQlMaster.Core.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\obj\Debug\netcoreapp2.2\GraphQlMaster.Core.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.Shared.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Core\bin\Debug\netcoreapp2.2\GraphQlMaster.Shared.pdb

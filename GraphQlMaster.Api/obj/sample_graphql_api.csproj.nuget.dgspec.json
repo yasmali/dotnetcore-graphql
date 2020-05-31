@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\sample_graphql_api-master\\sample_graphql_api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.Core\\GraphQlMaster.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.Core\\GraphQlMaster.Core.csproj",
+        "projectName": "GraphQlMaster.Core",
+        "projectPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.Core\\GraphQlMaster.Core.csproj",
+        "packagesPath": "C:\\Users\\Yavuz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yavuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.ServiceFoundation\\GraphQlMaster.ServiceFoundation.csproj": {
+                "projectPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.ServiceFoundation\\GraphQlMaster.ServiceFoundation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.ServiceFoundation\\GraphQlMaster.ServiceFoundation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.ServiceFoundation\\GraphQlMaster.ServiceFoundation.csproj",
+        "projectName": "GraphQlMaster.ServiceFoundation",
+        "projectPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.ServiceFoundation\\GraphQlMaster.ServiceFoundation.csproj",
+        "packagesPath": "C:\\Users\\Yavuz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.ServiceFoundation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yavuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\sample_graphql_api-master\\sample_graphql_api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\sample_graphql_api-master\\sample_graphql_api.csproj",
+        "projectName": "sample_graphql_api",
+        "projectPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\sample_graphql_api-master\\sample_graphql_api.csproj",
+        "packagesPath": "C:\\Users\\Yavuz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\sample_graphql_api-master\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yavuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.Core\\GraphQlMaster.Core.csproj": {
+                "projectPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.Core\\GraphQlMaster.Core.csproj"
+              },
+              "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.ServiceFoundation\\GraphQlMaster.ServiceFoundation.csproj": {
+                "projectPath": "C:\\Users\\Yavuz\\Documents\\Projects\\SampleGraphQlApiMaster\\GraphQlMaster.ServiceFoundation\\GraphQlMaster.ServiceFoundation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

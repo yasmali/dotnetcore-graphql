@@ -1,0 +1,8 @@
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Shared\bin\Debug\netcoreapp2.2\GraphQlMaster.Shared.deps.json
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Shared\bin\Debug\netcoreapp2.2\GraphQlMaster.Shared.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Shared\bin\Debug\netcoreapp2.2\GraphQlMaster.Shared.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Shared\obj\Debug\netcoreapp2.2\GraphQlMaster.Shared.AssemblyInfoInputs.cache
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Shared\obj\Debug\netcoreapp2.2\GraphQlMaster.Shared.AssemblyInfo.cs
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Shared\obj\Debug\netcoreapp2.2\GraphQlMaster.Shared.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Shared\obj\Debug\netcoreapp2.2\GraphQlMaster.Shared.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Shared\obj\Debug\netcoreapp2.2\GraphQlMaster.Shared.csprojAssemblyReference.cache

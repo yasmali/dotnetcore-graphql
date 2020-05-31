@@ -1,0 +1,15 @@
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.Business.deps.json
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.Business.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.Business.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.Core.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.Core.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\obj\Debug\netcoreapp2.2\GraphQlMaster.Business.csprojAssemblyReference.cache
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\obj\Debug\netcoreapp2.2\GraphQlMaster.Business.AssemblyInfoInputs.cache
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\obj\Debug\netcoreapp2.2\GraphQlMaster.Business.AssemblyInfo.cs
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\obj\Debug\netcoreapp2.2\GraphQlMaster.Business.csproj.CopyComplete
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\obj\Debug\netcoreapp2.2\GraphQlMaster.Business.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\obj\Debug\netcoreapp2.2\GraphQlMaster.Business.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.Shared.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.Business\bin\Debug\netcoreapp2.2\GraphQlMaster.Shared.pdb

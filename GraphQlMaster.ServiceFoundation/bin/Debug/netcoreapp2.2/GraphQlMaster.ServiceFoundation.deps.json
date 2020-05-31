@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GraphQlMaster.ServiceFoundation/1.0.0": {
+        "runtime": {
+          "GraphQlMaster.ServiceFoundation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraphQlMaster.ServiceFoundation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

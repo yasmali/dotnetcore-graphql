@@ -1,0 +1,7 @@
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.ServiceFoundation\bin\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.deps.json
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.ServiceFoundation\bin\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.ServiceFoundation\bin\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.pdb
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.ServiceFoundation\obj\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.AssemblyInfoInputs.cache
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.ServiceFoundation\obj\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.AssemblyInfo.cs
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.ServiceFoundation\obj\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.dll
+C:\Users\Yavuz\Documents\Projects\SampleGraphQlApiMaster\GraphQlMaster.ServiceFoundation\obj\Debug\netcoreapp2.2\GraphQlMaster.ServiceFoundation.pdb

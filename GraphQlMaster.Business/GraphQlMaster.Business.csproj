@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GraphQlMaster.Core\GraphQlMaster.Core.csproj" />
+    <ProjectReference Include="..\GraphQlMaster.ServiceFoundation\GraphQlMaster.ServiceFoundation.csproj" />
+  </ItemGroup>
+
+</Project>
